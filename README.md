@@ -19,7 +19,7 @@ I want to create a easy to use API based on these methods. Implementation is in 
 
 If you want to have a quick overview on how OpenRefine clustern works watch this [Video: 4 minutes](https://www.youtube.com/watch?v=-aa02-9lf8o). OpenRefine has detailed explaination of the clustering feature and description of all methods in their [Clustering In Depth wiki](https://github.com/OpenRefine/OpenRefine/wiki/Clustering-In-Depth).
 
-### Existing Python Packages
+### Python Packages
 
 I want to reduce the amount code I write and maintain. There are already many fine implementation of the algorithems we want. Each package is evaluated to determind its suitablility.
 
