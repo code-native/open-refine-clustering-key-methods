@@ -11,7 +11,7 @@
 5. Levenshtein Distance
 6. PPM
 
-I want to create a easy to use API based on these methods.
+I want to create a easy to use API based on these methods. Implementation is in Python. Live API will be serverless.
 
 ## Prior Art
 
