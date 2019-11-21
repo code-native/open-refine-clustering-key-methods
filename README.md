@@ -31,7 +31,7 @@ I want to reduce the amount code I write and maintain. There are already many fi
 - [abydos](https://pypi.org/project/abydos/)
 
 4. Nearest Neighbor Methods (kNN)
-- [Scikit-Learn(https://scikit-learn.org/)
+- [Scikit-Learn](https://scikit-learn.org/)
 
 5. Levenshtein Distance
 - [abydos](https://pypi.org/project/abydos/)
