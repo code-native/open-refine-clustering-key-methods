@@ -21,15 +21,20 @@ If you want to have a quick overview on how OpenRefine clustern works watch this
 
 ### Existing Python Packages
 
-I want to reduce the amount code I write and maintain. There are already many fine implementation of the algorithems we want.
+I want to reduce the amount code I write and maintain. There are already many fine implementation of the algorithems we want. Each package is evaluated to determind its suitablility.
 
 1. Fingerprint
 2. N-Gram Fingerprint
+- [ngram](https://pypi.org/project/ngram/3.2/)
+
 3. Phonetic Fingerprint
 - [abydos](https://pypi.org/project/abydos/)
 
-4. Nearest Neighbor Methods
+4. Nearest Neighbor Methods (kNN)
+- [Scikit-Learn(https://scikit-learn.org/)
+
 5. Levenshtein Distance
 - [abydos](https://pypi.org/project/abydos/)
 
-6. PPM
+6. Prediction by Partial Matching
+
