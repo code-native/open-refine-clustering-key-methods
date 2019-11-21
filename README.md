@@ -35,6 +35,7 @@ I want to reduce the amount code I write and maintain. There are already many fi
 
 5. Levenshtein Distance
 - [abydos](https://pypi.org/project/abydos/)
+- [python-Levenshtein](https://pypi.org/project/python-Levenshtein/)
 
 6. Prediction by Partial Matching
 
