@@ -2,7 +2,7 @@
 
 ## Motivation
 
-[OpenRefine] has effetive text clustering feature. It's based on several text signature methodologies.  
+[OpenRefine] has effetive text clustering feature. It is based on several text signature methodologies.  
 
 1. Fingerprint
 2. N-Gram Fingerprint
@@ -11,7 +11,7 @@
 5. Levenshtein Distance
 6. PPM
 
-I want to create a easy to use API based on these methods. Implementation is in Python. Live API will be serverless.
+I want to create a easy to use API based on these methods. Implementation is in Python. Live API is serverless.
 
 ## Prior Art
 
