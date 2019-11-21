@@ -1,1 +1,35 @@
-# open-refine-clustering-key-methods
+# OpenRefine Clustering Key Methods
+
+## Motivation
+
+[OpenRefine] has effetive text clustering feature. It's based on several text signature methodologies.  
+
+1. Fingerprint
+2. N-Gram Fingerprint
+3. Phonetic Fingerprint
+4. Nearest Neighbor Methods
+5. Levenshtein Distance
+6. PPM
+
+I want to create a easy to use API based on these methods.
+
+## Prior Art
+
+### OpenRefine
+
+If you want to have a quick overview on how OpenRefine clustern works watch this [Video: 4 minutes](https://www.youtube.com/watch?v=-aa02-9lf8o). OpenRefine has detailed explaination of the clustering feature and description of all methods in their [Clustering In Depth wiki](https://github.com/OpenRefine/OpenRefine/wiki/Clustering-In-Depth).
+
+### Existing Python Packages
+
+I want to reduce the amount code I write and maintain. There are already many fine implementation of the algorithems we want.
+
+1. Fingerprint
+2. N-Gram Fingerprint
+3. Phonetic Fingerprint
+- [abydos](https://pypi.org/project/abydos/)
+
+4. Nearest Neighbor Methods
+5. Levenshtein Distance
+- [abydos](https://pypi.org/project/abydos/)
+
+6. PPM
