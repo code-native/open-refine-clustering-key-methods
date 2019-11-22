@@ -21,7 +21,7 @@ If you want to have a quick overview on how OpenRefine clustern works watch this
 
 ### Python Packages
 
-I want to reduce the amount code I write and maintain. There are already many fine implementation of the algorithems we want. Each package is evaluated to determind its suitablility.
+In order to reduce the amount code to write and maintain, existing libraries should be studied. Many fine implementation of the algorithems already exist. Each package is evaluated to determind its suitablility.
 
 1. Fingerprint
 2. N-Gram Fingerprint
