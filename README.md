@@ -2,7 +2,7 @@
 
 ## Motivation
 
-[OpenRefine] has effetive text clustering feature. It is based on several text signature methodologies.  
+[OpenRefine](http://openrefine.org/) has effetive text clustering feature. It is based on several text signature methodologies.  
 
 1. Fingerprint
 2. N-Gram Fingerprint
