@@ -39,3 +39,6 @@ In order to reduce the amount of code to write and maintain, existing libraries 
 
 6. Prediction by Partial Matching
 
+- [xunzheng](https://github.com/xunzheng/ppm)
+- [pluskid](https://github.com/pluskid/pyppm)
+- [VaLID](https://pypi.org/project/VaLID/)
